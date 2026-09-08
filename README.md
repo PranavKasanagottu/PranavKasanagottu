@@ -25,7 +25,7 @@ Computer Science student specializing in AI/ML, interested in cloud computing an
 - 🎓 B.Tech in Computer Science (AIML) @ Keshav Memorial Institute of Technology (CGPA: 9.425)
 - 🔭 Currently building projects in Computer Vision, LLMs, and Time-Series Forecasting
 - 🌱 Learning more about Cloud Computing and scalable ML deployment
-- 🏆 Solved 900+ problems on LeetCode (Contest Rating: 1920, Top ~5% globally)
+- 🏆 Solved 900+ problems on LeetCode (Contest Rating: 1938, Top ~4% globally)
 
 ---
 
